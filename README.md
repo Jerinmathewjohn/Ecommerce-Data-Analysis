@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains a collection of SQL queries used for analyzing an e-commerce dataset. These queries cover various analytical aspects, such as customer insights, sales trends, order statistics, and advanced data analysis.
+## Dataset:  https://www.kaggle.com/datasets/devarajv88/target-dataset
 
 ## Queries Included
 1. **Customer Analysis**
